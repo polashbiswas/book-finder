@@ -34,7 +34,7 @@ code {
 }
 .search-input {
   width: 100%;
-  background-image: url();
+  /* background-image: url(); */
   border: none;
   border-radius: 5px;
   padding: 7px;
